@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @titimar16
-- 👀 I’m interested in FPGA and digital electronics
-- 🌱 I’m currently learning electronic engineering
+- 👋 Hi, I’m @tmaringer
+- 👀 I’m interested in FPGA and digital electronics (µC, embedded software, IoT)
+- 🌱 I’m currently learning electronic engineering at ECAM Brussels Engineering School
 - 📫 Reach me at thibaut.maringer@protonmail.com
 
 <!---
