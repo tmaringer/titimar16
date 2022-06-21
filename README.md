@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tmaringer
+- 👋 Hi, I’m @tmaringer -> https://tmaringer.github.io
 - 👀 I’m interested in FPGA and digital electronics (µC, embedded software, IoT)
 - 🌱 I’m currently learning electronic engineering at ECAM Brussels Engineering School
 - 📫 Reach me at thibaut.maringer@protonmail.com
